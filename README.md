@@ -1,16 +1,3 @@
-# test_firebaseauth
+# SelfHeal_App
+SelfHeal is a mobile application that provides modules with activities to help people manage their mental health conditions. The app helps users take care of their mental health by giving them specific goals to achieve, which helps them stay focused, stay productive, feel more confident, and become more motivated, which aligns with the Sustainable Development Goal 3. It was developed using agile software development process called "Extreme Programming" and the Flutter framework for Android, with Firebase for cloud database and authentication. User testing showed that the app's features were functional, with some improvements needed in terms of cosmetics and additional features to be implemented
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
